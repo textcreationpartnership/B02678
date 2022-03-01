@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betwee the devil, the Pope and the chancellor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02678</idno>
+            <idno type="STC">Wing D1328A</idno>
+            <idno type="STC">ESTC R175944</idno>
+            <idno type="EEBO-CITATION">51784481</idno>
+            <idno type="OCLC">ocm 51784481</idno>
+            <idno type="VID">174896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174896)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2705:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betwee the devil, the Pope and the chancellor.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: page cropped with some loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Great Britain --  Controversial literature --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:174896:1" rendition="simple:additions"/>
+            <head>A DIALOGUE BETWEEN <hi>The Devil, the Pope</hi> AND THE CHANCELLOR.</head>
+            <sp>
+               <speaker>Chancellor.</speaker>
+               <p>HAil mighty Patrons and Maſters! You that have been my hope from the beginning; the firſt Founders of my Villany, and for whom I have Labour'd all my Life; I ſay, once more, Hail, mighty Prince of Darkneſs! and you his Benefactor, go on and Proſper, for I have done my Beſt, my <hi>Dream</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>De il</speaker>
+               <p>My Son, my Son, my dearly beloved Son, the only hope of all the Infernal Crew; Why are you ſo Dejected and Caſt down? Cheer up, ſee who's here; ſee me here, your Lord and Maſter, and lo, here your Ghoſtly Father, next and immediately under me; Supream Head and Governor of the dark Dungeon and <hi>Stygion Lake.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>My Lord! I Adore you, I Reverence you; I am wholly devoted to your Service; I give my ſelf for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Bravely done, thou Son of Perdition, thou art the only Heir of Deſtruction and under Favour; my Lord, <hi>Lu<g ref="char:EOLhyphen"/>cifer,</hi> I muſt tell you, this honeſt, dear, true-hearted <hi>George,</hi> has done us and our Kingdom more Service, than all the Men in <hi>England;</hi> To innumerate all his Exploits, would be as endleſs, as to count the Stars: In the Weſt of <hi>England,</hi> my Lord, he was not a little Active, he hang'd the poor Souls up by the <hi>Dozen;</hi> if you had been but there to ſee it, it would have made you Burſt with Laughing, to ſee how a Dozen or two of them hung together, ſhowing of their <hi>Teeth,</hi> and ma<g ref="char:EOLhyphen"/>king wry <hi>Months</hi> at one another: And then but the other day, he Perjur'd himſelf as handſomly as I could do my ſelf, I believe; but he loſt nothing by it, for he Married his Son to <hi>20000 l.</hi> by the bargain; and who would not be Perjur'd twice twenty thou and times for that Money?</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Nay, that's the truth on't, you ſpeak like a good meaning Man, and a Man of Great Parts, I'll Promote you e'er long for this, you ſhall be my head <hi>Devil</hi> in ordinary, and little <hi>George</hi> ſhall be my <hi>Cup-bearer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chan</speaker>
+               <p>I am unworthy, my Lord, I am unworthy to Serve you, but I have a mind to no other Office but <hi>Treaſurer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>By all my Infernal Power, and the dark Regions of <hi>Hell,</hi> thou art a cunning kind of a I cannot tell what, a great Wit, and damn'd Cunning.</p>
+            </sp>
+            <sp>
+               <speaker>Pope:</speaker>
+               <p>Ay, by the Maſs, my Lord, if you ſhould but ſee him upon the Bench, with two Grave Counſellors Pleading before him, it would make you admire, to ſee how he runs down him that has not greaſed his Fiſt, with a <hi>Sirrah, you are a Rogue, a Cheat, I'll deal well enough with you, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e you know Sirrah,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Admirable well done! I own him for my dear Son and Servant for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>And thus upon his bended Knees, your humble and obedient Servant, devotes himſelf wholly to be your Slave to all Eternity.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>In what prithee?</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>In every thing that your Infernal Majeſty in your Profound Wiſdom and Goodneſs, ſhall think fit.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Very well; I'll do thus much for you likewiſe, <hi>viz.</hi> Command my Chief Secretary of State; his Holineſs, to ſend out Writs of <hi>Excommunication</hi> againſt all the Peers of <hi>England,</hi> to ſet thee at Liberty, my <hi>Lad,</hi> if it be poſſible.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I am all joy, I am all gladneſs, my <hi>Heart</hi> is juſt <hi>jumping</hi> out of my Mouth, I cannot contain, I <hi>Melt,</hi> O I <hi>Faint,</hi> I <hi>Die,</hi> I <hi>joy</hi> to expreſs! Who would not ſerve ſo Gra<g ref="char:EOLhyphen"/>cious a <hi>Prince</hi> as <hi>Lucifer?</hi> Well I'll disburſt one hundred thouſand Pounds more, to buy Wood to Burn Hereticks, that if it be poſſible, <hi>Hell</hi> may be full.</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>I Kiſs your Holineſs's little Toe Nail, and return you all immaginable Gratitude for ſo great a Favour.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>I know not how I ſhall gratifie you, for your extraordinary care of my <hi>Kingdom,</hi> and Affairs of greateſt Importance; certainly you were predeſtinated from the Beginning, to be a partaker of the Crumbs of my Infer<g ref="char:EOLhyphen"/>nal <hi>Table;</hi> go on therefore, ye Sons of Perdition, go on and proſper in your Work already begun, if you live in my Fear, you need not doubt but you ſhall die in my Favour; and upon the word of <hi>Devil,</hi> I'll be kind to you; if I am not, never be<g ref="char:EOLhyphen"/>lieve a <hi>Devil</hi> again for my ſake.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>No, my Lord, that would be a very great Af<g ref="char:EOLhyphen"/>front to your Lordſhip, to doubt of the Sincerity of your inten<g ref="char:EOLunhyphen"/>tions, we have always found you Faithful hitherto, indeed my Opinion is, you are like me, <hi>viz.</hi> you connot Err.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>As for that, I leave it to be determined <hi>Secu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dum artem;</hi> by a Convocation of <hi>Jeſuits.</hi> But prith<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> honeſt <hi>George,</hi> why art ſo Melancholy?</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>O my <hi>Dream,</hi> my <hi>Dream</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s in my Head! <hi>Dream</hi> of nothing but <hi>Halters</hi> and <hi>Hatchers;</hi> and met hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I continually ſee a <hi>Gallows</hi> before my Face, or a <hi>Scaffo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> or ſome ſuch Place; nay, one Night I was in a prefo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sleep, and methoughts I ſaw my ſelf brought before the <hi>P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>liament</hi> Accus<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of High Miſdemeanors, and Condem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Then methoughts I was had upon a <hi>Scaffold,</hi> with a <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ter</hi> about my Neck, (though not to be Hang'd in it, but only Diſgrace) where methoughts I ſaw an innumerable <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pany
+<pb facs="tcp:174896:2"/> of the <hi>Mobile,</hi> with great Shouts, inſulting over me in my own Terms, crying, <hi>Away with him, Hang him, we know him of old, he is a great,</hi> R—. Then methoughts after a cold Prayer or two, I laid my Neck down upon the <hi>Block,</hi> and juſt as the Hang-man was taking his firſt <hi>Blow,</hi> I awaked, and was in ſuch a Heat, that you might have greaſed a dozen pair of <hi>Jack-Boots</hi> with the Sweat that came from my Arm-holes; and glad I was that it was a <hi>Dream,</hi> but I fear I ſhall yet find it True.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>This is only a <hi>Dream,</hi> and your <hi>Fancy</hi> works with the apprehenſions of a fatal Blow.</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>But I could wiſh to be a little farther off of theſe <hi>Dutch</hi> Scoundrels, for ſuppoſe my <hi>Dream</hi> ſhould prove true, what muſt I do then?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Why I'll Abſolve you, do you ſee, and fear not.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>And I ll ſend my Ferry man <hi>Charon</hi> to bring him over Safe, do you mind me? And for joy we will keep Holy day all over <hi>Hell;</hi> the Doors ſhall be ſhut, and no Entrance given to any that day; and the Night we'll ſpend in <hi>Revelling</hi> and <hi>Dancing;</hi> we'll have a Play Acted by all the Infernal Fiends and it ſhall be called <hi>Jeffry's the Great,</hi> or the <hi>Baron of Wem,</hi> a <hi>Comi-Tragedy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>Your Excellency is very Merrily diſpoſed, but I have no Stomach to Die, I can't find in my Heart to be ſo Barbarous to my ſelf, if I can help it.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Let me tell you one thing, which will help you if any thing will, <hi>viz.</hi> Againſt you come to your Tryal, I'll furniſh you with a good ſtock of Equivocations and Men<g ref="char:EOLhyphen"/>tal Reſervations, which if you uſe as you ought, may do much in your Caſe: I can Pardon all.</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>That I do not doubt, but if they ſhould fail, then poor Pill-garlick muſt ly at the Hang-man's mercy; my Dream, my Dream, a Pox on't, my Dream runs in my Head: O poor <hi>George!</hi> thou art in a pittiful State, and muſt, I fear, e'er long, make thy <hi>Exit,</hi> but God knows whither.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Prithee my Son, be Patient, now I remember my ſelf, the <hi>French</hi> King (thy Couſin German, though I think, has deſerved better things from my Hands than you have) intends a ſpeedy Deſtruction of the <hi>Hereticks</hi> in <hi>England,</hi> and Damn him, if he makes haſte, he may come time enough to ſave thy <hi>Tryal</hi> and <hi>Life</hi> both, and then my <hi>Lad!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>I adad, that would be brave ſport, to ſee a vaſt <hi>Catholick</hi> Army Burn the Country before them, and to ſee <hi>George J—y's</hi> Exalted from <hi>Lord High Chancellor</hi> of <hi>England,</hi> to <hi>Duke of all Towns;</hi> nay, perhaps King of <hi>Ireland,</hi> who knows what may fall? Though now I am a Priſoner in the <hi>Tower,</hi> I may come to be the Devil and all of a Governour, or ſome ſuch thing, if this <hi>French</hi> King does but come,—this puts new Life into me,—be Merry <hi>George,</hi> be Merry, I ſay Cheer up, ſee what thou art like to come to; there is but too Beings, one of which I muſt of Neceſſity have, <hi>viz.</hi> either be at the mercy of the Hang man, or elſe a Governour in Pomp, the laſt of which I the rather chuſe, for certain Reaſons and Conſiderations me thereto moving; therefore, <hi>Know all Men by theſe Preſents, That I do from henceforth Renounce all deſire of Death, either</hi> Per <hi>Force or Naturally; pro<g ref="char:EOLhyphen"/>feſſing that I intend to Live as long as I can; and that not after on Ordinary manner, but according as I us'd to do; which upon my Conſcience, I in<g ref="char:EOLhyphen"/>tend to perform, to the utmoſt of my power.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>It is enough (dear <hi>Georgy</hi>) I have my Hearts deſire, I always ſaid thou wer't an apt Scholar, and would make a man after my Hearts deſire; but prithee let me ask thee one Queſtion, (which ſhall be a merry one, for I ſee you are a little Merrily diſpoſed) there is a certain Queſtion in Law to be reſolved, concerning a Female Perſon.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>They are People which I have a natural kindneſs for.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>And ſhe was fully Seized of a certain parcel of Ground in <hi>Fee-Tayl,</hi> to her and her Heirs Female for ever, commonly call'd and known by the Name of <hi>Hairy-Acre</hi> Butting and Bounding near <hi>Hip-hill</hi> on the North-ſide of <hi>A—s Alley,</hi> with a certain Fiſh-pond belonging to the ſame, ſhe being in peaceable Poſſeſſion of the ſame for eigh<g ref="char:EOLhyphen"/>teen years and upwards; a certain young Man comes, and by Force, enters her <hi>Premiſſes;</hi> ſhe knowing by the Laws of the Land, he ought not ſo to do, ejects him, and throws him out of Poſſeſſion: He afterwards recovering again, with three more of his Servants, enters her <hi>Premiſſes</hi> again; ſhe thinking to Indict him upon a Riot, by a Statute made in the Reign of King <hi>Henry</hi> the <hi>VIII.</hi> but could not make it out, becauſe one only entred, and the other two ſtood at the Door: Now, he being in peaceable Poſſeſſion of the aforeſaid <hi>Pre<g ref="char:EOLhyphen"/>miſſes,</hi> and ſhe having caught his principal Evidence into her <hi>Tail-Deed,</hi> Burn'd it; now he being remidileſs at the <hi>Common-Law,</hi> pray what Relief can he have in <hi>Chan<g ref="char:EOLhyphen"/>cery?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>Your Excellency is in a very merry humour; certain<g ref="char:EOLhyphen"/>ly they that are in <hi>Hell,</hi> and Subjects to ſuch a King, cannot but be very happy: I ſuppoſe you allow <hi>Liberty of Con<g ref="char:EOLhyphen"/>ſcience,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Ay, Ay, without doubt he allows that, or elſe he would not have ſo many Subjects as he hath, you know you have had it all along, ſometimes you have ſerved him one way, and ſometimes another; as by <hi>Swearing, Lying, Hy<g ref="char:EOLhyphen"/>pocriſie,</hi> Treachery to your Country, Perjury, Oppreſſion, <hi>&amp;c.</hi> Then why ſhould you doubt of his Clemency to his Infernal Subjects?</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>Nay, as I am an honeſt Man, I was to blame, but I beg his Pardon, and hope—</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>Hope! Nay, you may Swear that I'll Pardon thee my little Nicky Nacky; What Devil in Hell could find in his Heart to be angry with thee? My dear Son, come hither, let me Embrace thee, the hope of my old Age,—</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Lau you there now, is not this Devil ſomething like a Devil now? ſee how he loves you! Nay, dotes on you! What can an Indulgent Father do more?</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>I am unworthy to be called his Son—</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Well now Lord Lucifer, What think you of him, is he worthy to be Lord Treaſurer under the Prince of the dark Regions?</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>I accept him, and think him worthy of the Re<g ref="char:EOLhyphen"/>ward I intend finally to beſtow upon him.</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>I muſt confeſs that I have been a great, <hi>&amp;c.</hi> and have been very Serviceable to your Excellency in many things, and would have been in many more, had it been in my Power; but I am too Good ſtill to be called, <hi>&amp;c.</hi> I am,— I was,— I have been,— I had been, if things had fell out handſomly— I ſhall be hereafter,— but what I know not, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Well cheer up, 'tis time for us to go home; and we'll go by the way of <hi>France,</hi> and animate him as much as we can againſt theſe Hereticks in <hi>England;</hi> and if he does but come time enough!— We can be there in half an Hour, for here's <hi>Paccolet</hi>'s Horſe at the Door, therefore Adieu, ſweet, ſweet <hi>George,</hi> Adieu.</p>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <p>My Son, Farewell, with ſuch Felicity as I deſire; I'll ſend to you, though, e'er long, therefore Weep not my Son.</p>
+            </sp>
+            <sp>
+               <speaker>Chan.</speaker>
+               <p>Adieu to you both, I fear I ſhall ſee you no more in this World; therefore once more Adieu and be Damn'd; a Complement Courtier like.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>PRINTED in the Year 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
